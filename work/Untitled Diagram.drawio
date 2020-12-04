@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T07:50:20.488Z" agent="5.0 (Macintosh)" etag="vckP6lhrXFqsFlkRSoPj" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T07:51:35.445Z" agent="5.0 (Macintosh)" etag="0IVIcHiPBbChlY-_EL-m" version="13.10.8" type="github">
   <diagram id="JcdzL6HRB9JIexcx_47-" name="Page-1">
     <mxGraphModel dx="946" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jyvZzx-nxZELp0weIz12-1" value="People Corner Frontend" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-1" value="People Corner Frontend" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-2" value="People Corner BFF" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-2" value="People Corner BFF" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="340" y="142" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-3" value="Employee Microservice" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-3" value="Employee Microservice" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="490" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-4" value="&lt;div&gt;Team&lt;/div&gt;&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-4" value="&lt;div&gt;Team&lt;/div&gt;&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="130" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-5" value="&lt;div&gt;Celebrate &lt;br&gt;&lt;/div&gt;&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-5" value="&lt;div&gt;Celebrate &lt;br&gt;&lt;/div&gt;&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="320" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-6" value="&lt;div&gt;Coffee Conversation&lt;br&gt;&lt;/div&gt;&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-6" value="&lt;div&gt;Coffee Conversation&lt;br&gt;&lt;/div&gt;&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="480" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-7" value="&lt;div&gt;Events&lt;br&gt;&lt;/div&gt;&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-7" value="&lt;div&gt;Events&lt;br&gt;&lt;/div&gt;&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="650" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-8" value="Postgresql " style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-8" value="Postgresql " style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="330" y="540" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jyvZzx-nxZELp0weIz12-9" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classicThin;startFill=1;endFill=0;" edge="1" parent="1" source="jyvZzx-nxZELp0weIz12-2" target="jyvZzx-nxZELp0weIz12-1">
@@ -138,7 +138,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-22" value="Learning&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-22" value="Learning&lt;div&gt; Microservice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="790" y="280" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jyvZzx-nxZELp0weIz12-23" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jyvZzx-nxZELp0weIz12-2" target="jyvZzx-nxZELp0weIz12-22">
@@ -151,10 +151,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-24" value="Bluepages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-24" value="Bluepages" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="780" y="390" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jyvZzx-nxZELp0weIz12-25" value="Your Learnings" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jyvZzx-nxZELp0weIz12-25" value="Your Learnings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="930" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jyvZzx-nxZELp0weIz12-26" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="jyvZzx-nxZELp0weIz12-3" target="jyvZzx-nxZELp0weIz12-24">
