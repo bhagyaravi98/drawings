@@ -1,1 +1,88 @@
-<mxfile host="app.diagrams.net" modified="2020-12-09T07:45:17.993Z" agent="5.0 (Macintosh)" version="13.10.8" etag="vHCsoBKUvbSOBfzG9-Pl" type="github"><diagram id="bydNWzBqJsdvSHLZY_Mn">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-09T07:55:04.044Z" agent="5.0 (Macintosh)" etag="IAZ0r1zkYH7sZ_darprK" version="13.10.8" type="github">
+  <diagram id="bydNWzBqJsdvSHLZY_Mn" name="Page-1">
+    <mxGraphModel dx="946" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-1" value="Role Added to Essentials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-2" value="Member Added to the team" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-3" value="Teammeber add action is called" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-4" value="Teammember details are stored onto DB " style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-5" value="API call to the Quiz application to add teammember with Participant Role" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-6" value="No Action" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="245" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-7" value="User Login to People Corner" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-9" value="&lt;div&gt;Check if the user role&lt;/div&gt;&lt;div&gt; is Project Manager&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="120" width="160" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-10" value="API call to Quiz application to modify User Role to Quiz Master" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="465" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-11" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p5vcVFJf6dW_eCdCW8jx-7" target="p5vcVFJf6dW_eCdCW8jx-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="125" y="230" as="sourcePoint" />
+            <mxPoint x="175" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-12" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="524.5" y="260" as="sourcePoint" />
+            <mxPoint x="524.5" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-13" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="545" y="270" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-15" value="No Action" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-16" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="p5vcVFJf6dW_eCdCW8jx-9" target="p5vcVFJf6dW_eCdCW8jx-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="230" as="sourcePoint" />
+            <mxPoint x="740" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-17" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="160" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-18" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p5vcVFJf6dW_eCdCW8jx-2" target="p5vcVFJf6dW_eCdCW8jx-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="230" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-19" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p5vcVFJf6dW_eCdCW8jx-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="89.5" y="200" as="sourcePoint" />
+            <mxPoint x="89.5" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-20" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="p5vcVFJf6dW_eCdCW8jx-4" target="p5vcVFJf6dW_eCdCW8jx-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="200" as="sourcePoint" />
+            <mxPoint x="99.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="p5vcVFJf6dW_eCdCW8jx-21" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="p5vcVFJf6dW_eCdCW8jx-1" target="p5vcVFJf6dW_eCdCW8jx-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="230" as="sourcePoint" />
+            <mxPoint x="350" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
