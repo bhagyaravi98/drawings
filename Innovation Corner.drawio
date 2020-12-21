@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-21T09:25:14.182Z" agent="5.0 (Macintosh)" etag="wJWiKthvk7f_iQcYnUex" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-21T09:30:39.701Z" agent="5.0 (Macintosh)" etag="9CNznGVxqJsZJxqb1TBO" version="13.10.8" type="github">
   <diagram id="UiBAD5GZToGDINsmSXcJ" name="Page-1">
     <mxGraphModel dx="946" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="LfRqxSiJlln_DhOymT-F-1" value="ICP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="210" y="110" width="530" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="LfRqxSiJlln_DhOymT-F-2" value="Innovation Corner" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="LfRqxSiJlln_DhOymT-F-2" value="Innovation Corner" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="509" y="160" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="LfRqxSiJlln_DhOymT-F-3" value="IBM Essentials" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
