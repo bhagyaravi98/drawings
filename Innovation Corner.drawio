@@ -1,1 +1,22 @@
-<mxfile host="app.diagrams.net" modified="2020-12-18T09:29:48.937Z" agent="5.0 (Macintosh)" version="13.10.8" etag="oxCICvJZrSgEqxX2qWVj" type="github"><diagram id="UiBAD5GZToGDINsmSXcJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-21T07:48:40.880Z" agent="5.0 (Macintosh)" etag="YCVbTYV4ydQL0xfZVHQf" version="13.10.8" type="github">
+  <diagram id="UiBAD5GZToGDINsmSXcJ" name="Page-1">
+    <mxGraphModel dx="946" dy="516" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LfRqxSiJlln_DhOymT-F-1" value="ICP" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="590" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="LfRqxSiJlln_DhOymT-F-2" value="Innovation Corner" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="490" y="160" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LfRqxSiJlln_DhOymT-F-3" value="IBM Essentials" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="180" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="LfRqxSiJlln_DhOymT-F-4" value="WordPress" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="180" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
